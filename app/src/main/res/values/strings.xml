@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hardware Wallet</string>
+    <string name="enter_recipient_address">Enter Recipient Address</string>
+    <string name="enter_amount">Enter Amount in btc</string>
+    <string name="send">Send</string>
+    <string name="initialization">Initialization</string>
+    <string name="serial_console">Serial Console</string>
+</resources>
